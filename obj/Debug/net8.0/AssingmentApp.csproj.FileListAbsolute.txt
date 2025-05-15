@@ -1,0 +1,9 @@
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.AssemblyInfo.cs
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\AssingmentApp\AssingmentApp\obj\Debug\net8.0\AssingmentApp.sourcelink.json
